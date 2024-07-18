@@ -2,7 +2,7 @@
 Experiment with pre-trained model to build Text Summarization Model for summarize Indonesia Article (in this project will be using dataset id_liputan6 by [Fajri Koto](https://huggingface.co/datasets/fajrikoto/id_liputan6))
 
 
-- Used Pre-Trained Model : indolem/indobert-base-uncased [source] (https://huggingface.co/indolem/indobert-base-uncased)
+- Used Pre-Trained Model : indolem/indobert-base-uncased [source](https://huggingface.co/indolem/indobert-base-uncased)
 - Used Dataset : id_liputan6 by [Fajri Koto](https://huggingface.co/datasets/fajrikoto/id_liputan6)
 - Finetuning Parameter : 
     - batch_size  = 8
